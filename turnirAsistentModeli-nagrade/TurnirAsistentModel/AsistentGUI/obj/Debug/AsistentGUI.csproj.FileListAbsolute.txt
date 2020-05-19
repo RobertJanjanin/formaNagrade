@@ -1,0 +1,14 @@
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\bin\Debug\AsistentGUI.exe.config
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\bin\Debug\AsistentGUI.exe
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\bin\Debug\AsistentGUI.pdb
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.csprojAssemblyReference.cache
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.Properties.Resources.resources
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.TournamentViewerForm.resources
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.csproj.GenerateResource.cache
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.csproj.CoreCompileInputs.cache
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.exe
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.pdb
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.CreatePrizeForm.resources
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.CreateTeamForm.resources
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.CreateTournamentForm.resources
+C:\Users\ilymi\source\repos\turnirAsistentModeli-nagrade\TurnirAsistentModel\AsistentGUI\obj\Debug\AsistentGUI.TournamentDashboardForm.resources
